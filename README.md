@@ -1,0 +1,40 @@
+# The Beatles – If I Needed Someone (Remastered 2009)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:07.57] If I needed someone to love
+[00:11.22] You're the one that I'd be thinking of
+[00:16.96] If I needed someone
+[00:26.46] 
+[00:22.30] If I had some more time to spend
+[00:26.27] Then I guess I'd be with you, my friend
+[00:31.53] If I needed someone
+[00:41.03] 
+[00:37.26] Had you come some other day then
+[00:40.37] It might not have been like this
+[00:44.61] But you see now I'm too much in love
+[01:02.61] 
+[00:52.09] Carve your number on my wall and
+[00:55.13] Maybe you will get a call from me
+[01:01.52] If I needed someone
+[01:11.02] 
+[01:07.37] Aaah
+[01:11.12] Aaah
+[01:14.73] Aaah
+[01:18.54] Aaah
+[01:20.54] 
+[01:22.23] If I had some more time to spend
+[01:25.99] Then I guess I'd be with you, my friend
+[01:31.89] If I needed someone
+[01:41.39] 
+[01:37.39] Had you come some other day then
+[01:40.46] It might not have been like this
+[01:45.16] But you see now I'm too much in love
+[02:03.16] 
+[01:52.63] Carve your number on my wall and
+[01:55.74] Maybe you will get a call from me
+[02:02.24] If I needed someone
+[02:07.92] Aaah
+[02:12.08] Aaah
+```
