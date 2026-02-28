@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "If I Needed Someone (Remastered 2009)",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-02-28T09:56:57.515501Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "If I Needed Someone (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_If_I_Needed_Someone_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "If I Needed Someone (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/02_If_I_Needed_Someone_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "If I Needed Someone - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/03_If_I_Needed_Someone_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "If I Needed Someone (Remastered 2009)",
+      "artist": "Beatles",
+      "has_synced": true,
+      "path": "select/04_If_I_Needed_Someone_(Remastered_2009)_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "If I Needed Someone (Remastered)",
+      "artist": "The Hollies",
+      "has_synced": false,
+      "path": "select/05_If_I_Needed_Someone_(Remastered)_The_Hollies.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If I Needed Someone (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/06_If_I_Needed_Someone_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "If I Needed Someone - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/07_If_I_Needed_Someone_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "If I Needed Someone (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/08_If_I_Needed_Someone_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "If I Needed Someone - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/09_If_I_Needed_Someone_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "IF I NEEDED SOMEONE",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_IF_I_NEEDED_SOMEONE_The_Beatles.txt"
+    }
+  ]
+}
